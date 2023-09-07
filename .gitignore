@@ -175,5 +175,8 @@ pyrightconfig.json
 
 # End of https://www.toptal.com/developers/gitignore/api/python
 
-yolo_data
+.zip 
+.tar.gz
+
+dataset/
 yolo_sample
