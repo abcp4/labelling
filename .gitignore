@@ -179,4 +179,5 @@ pyrightconfig.json
 .tar.gz
 
 dataset/
+zips/
 yolo_sample
